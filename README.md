@@ -2,23 +2,17 @@
 
 ## 介绍
 
-- 实时读取微信聊天记录。
-- 调用 OpenAI API 生成回复建议，以便用户参考。
-- 支持微信多开。
+基于[wxauto](https://github.com/cluic/wxauto)
 
-## 使用方法
-
-### 启动
+先登录微信。保持微信在桌面。
 
 支持微信版本：3.9+
 
 [微信各版本下载](https://github.com/tom-snow/wechat-windows-versions/releases)
 
-先登录微信。保持微信在桌面。
-
-不要点右上角的关闭。最小化没问题。
-
-点击 exe 程序启动即可。
+- 实时读取微信聊天记录。
+- 调用 OpenAI API 生成回复建议，以便用户参考。
+- 支持微信多开。
 
 ### 关闭
 
